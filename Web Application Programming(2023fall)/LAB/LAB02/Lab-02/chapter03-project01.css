@@ -1,0 +1,210 @@
+h1,
+h2,
+h3,
+nav,
+footer {
+  font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+}
+
+/**********************************/
+/* GOAL-1 general text formatting */
+/**********************************/
+
+body {
+  background-color: rgb(38, 53, 64);
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+}
+
+h2 {
+  color: white;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 19px;
+}
+
+h3:after {
+  content: "";
+  display: block;
+  width: 100%;
+  border-bottom: 1px solid black;
+  margin: 0 0 0.5em 0;
+}
+
+p {
+  padding: 0;
+}
+
+/**********************************/
+/* GOAL-2 hyper-link styling      */
+/**********************************/
+
+a {
+  color: rgb(108, 174, 196);
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: blue;
+}
+
+/**********************************/
+/* GOAL-3 header and navigation   */
+/**********************************/
+
+header {
+  padding: 0;
+}
+
+hgroup {
+  background-color: rgb(65, 92, 104);
+  margin: 0 4em 0 4em;
+  padding: 0.5em;
+}
+
+footer a:link {
+  color: rgb(108, 174, 196);
+}
+
+footer a:visited {
+  color: rgb(108, 174, 196);
+}
+
+footer a:hover {
+  color: rgb(108, 174, 196);
+}
+
+footer {
+  background-color: rgb(65, 92, 104);
+  margin: 0 4em 0 4em;
+  padding: 0.5em;
+  color: white;
+}
+
+nav a:link {
+  color: rgb(108, 174, 196);
+}
+
+nav a:visited {
+  color: rgb(108, 174, 196);
+}
+
+nav a:hover {
+  color: rgb(108, 174, 196);
+}
+
+nav {
+  margin: 0 4em 0 4em;
+  padding: 0.5em;
+  background-color: rgb(119, 137, 148);
+}
+
+ul li {
+  display: inline-block;
+  font-size: 20px;
+}
+
+/**************************************/
+/* Do not modify the following styles */
+/**************************************/
+
+/* article styling */
+article {
+  background-color: white;
+  margin: 1em 4em 1em 4em;
+  padding: 0.5em;
+}
+
+.byline,
+figcaption {
+  color: #728b96;
+  font-style: italic;
+  font-size: 14px;
+  font-size: 0.875rem;
+}
+
+p {
+  margin: 0 0 0.5em 0;
+}
+
+/* figure styling */
+
+figure {
+  margin: 0.5em 0 0.5em 0;
+}
+
+figure img {
+  padding: 0.25em;
+  border: solid 1px #999999;
+}
+
+figure div {
+  margin: 0.25em 0 2em 0;
+  padding: 0.5em;
+  width: 485px;
+  background-color: #9faab0;
+  border: solid 1px #999999;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  background-image: url(images/gray-gradient.gif);
+  background-repeat: repeat-x;
+}
+
+figure div p {
+  font-size: 70%;
+}
+
+figure div img {
+  padding: 0;
+  border: 0;
+}
+
+figure div p {
+  margin: 0;
+}
+
+figcaption {
+  margin-bottom: 0.5em;
+}
+
+span.share {
+  display: inline-block;
+  background: url(images/glyphicons-halflings.png) no-repeat;
+  width: 14px;
+  height: 14px;
+  background-position: -120px -72px;
+  padding-right: 5px;
+}
+
+/* review styling */
+
+#reviews {
+  margin-top: 1em;
+}
+
+#reviews div {
+  border-bottom: dotted 1pt #999999;
+  margin-bottom: 1.25em;
+}
+
+#reviews p {
+  margin: 0;
+}
+
+/* footer styling */
+footer {
+  padding: 0.5em;
+}
+
+footer p {
+  font-size: 14px;
+  font-size: 0.875rem;
+}

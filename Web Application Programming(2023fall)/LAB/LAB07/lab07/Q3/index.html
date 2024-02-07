@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Project jQuery</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <div id="upper">UPPER</div>
+    <div id="lower">LOWER</div>
+    <script>
+      $(document).ready(function () {
+        $("#upper").html("checked");
+        $("#lower").css("color", "blue");
+        $("#lower").before("<div>MIDDLE</div>");
+        $("#lower").after("<hr>");
+
+        // Left Button
+        $("#left-btn").click(function () {
+          alert("Left Button clicked");
+        });
+
+        // Right Button
+        $("#right-btn").click(function () {
+          alert("Right Button clicked");
+        });
+      });
+    </script>
+
+    <input type="button" id="left-btn" value="Left Button" />
+    <input type="button" id="right-btn" value="Right Button" />
+  </body>
+</html>

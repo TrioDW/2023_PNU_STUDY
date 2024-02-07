@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>
+      <hr />
+      <h2>Use GET request, processed by process-get.php</h2>
+      <form action="process-get.php" method="GET">
+        <label>Your Name:</label><input type="text" name="name" />
+        <div>
+          <label>Your Favorite Language:</label>
+          <input type="radio" name="language" value="HTML" /><label>HTML</label>
+          <input type="radio" name="language" value="JS" /><label>JS</label>
+          <input type="radio" name="language" value="PHP" /><label>PHP</label>
+        </div>
+        <div><button type="submit">제출</button></div>
+      </form>
+    </div>
+    <hr />
+    <div>
+      <h2>Use POST request, processed by process-get.php</h2>
+      <form action="process-post.php" method="POST">
+        <label>Your Name:</label><input type="text" name="name" />
+        <div>
+          <label>Your Favorite Language:</label>
+          <input type="radio" name="language" value="HTML" /><label>HTML</label>
+          <input type="radio" name="language" value="JS" /><label>JS</label>
+          <input type="radio" name="language" value="PHP" /><label>PHP</label>
+        </div>
+        <div><button type="submit">제출</button></div>
+      </form>
+    </div>
+    <hr />
+  </body>
+</html>

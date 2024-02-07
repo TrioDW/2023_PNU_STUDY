@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  </head>
+  <body>
+    <script>
+      var settings = {
+        url: "http://apis.data.go.kr/1360000/VilageFcstInfoService_2.0/getUltraSrtNcst?serviceKey=L4FGPswC%2FnH8LsJ%2B6vrL%2FmSdtf%2BpEV%2BXLt4AEoDo2HuHZNlkjNM7jJb1eqpsjYi2RJ%2FK0RgJrzqRO0HMeSUezg%3D%3D&base_date=20231213&base_time=0600&nx=55&ny=127&dataType=XML&pageNo=1&numOfRows=4",
+        method: "GET",
+        timeout: 0,
+      };
+
+      $.ajax(settings).done(function (response) {
+        // Parse XML response
+        var xml = $(response);
+        var items = xml.find("item");
+
+        // Create a table
+        var table = $("<table border='1'></table>");
+        table.append(
+          "<tr><th>Date</th><th>Time</th><th>X</th><th>Y</th><th>category</th><th>Observed Value</th></tr>"
+        );
+
+        // Populate the table with data
+        items.each(function () {
+          var date = $(this).find("baseDate").text();
+          var time = $(this).find("baseTime").text();
+          var x = $(this).find("nx").text();
+          var y = $(this).find("ny").text();
+          var category = $(this).find("category").text();
+          var observedValue = $(this).find("obsrValue").text();
+
+          var row =
+            "<tr><td>" +
+            date +
+            "</td><td>" +
+            time +
+            "</td><td>" +
+            x +
+            "</td><td>" +
+            y +
+            "</td><td>" +
+            category +
+            "</td><td>" +
+            observedValue +
+            "</td></tr>";
+
+          table.append(row);
+        });
+
+        // Append the table to the body
+        $("body").append(table);
+      });
+    </script>
+  </body>
+</html>

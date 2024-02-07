@@ -1,0 +1,69 @@
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+  </head>
+  <body>
+    <form>
+      Enter a search keyword :
+      <input type="text" id="userInputAreaKey" size="20" value="PNU" /><br />
+      Enter a number of items to display:
+      <input type="text" id="userInputAreaMany" size="5" value="3" /><br />
+      <input type="button" onclick="run()" value="Run" />
+    </form>
+    <hr />
+    <div id="postingArea"></div>
+    <script>
+      function run() {
+        var userInput1 = document.getElementById("userInputAreaKey");
+        var userInput2 = document.getElementById("userInputAreaMany");
+
+        var settings = {
+          url:
+            "https://dapi.kakao.com/v2/search/vclip?query=" + userInput1.value,
+          method: "GET",
+          timeout: 0,
+          headers: {
+            Authorization: "KakaoAK db27f9b1b2c87f0d1a52af737b90fa14",
+          },
+        };
+
+        $.ajax(settings).done(function (response) {
+          var items = response.documents;
+          var table =
+            "<table border='1'><tr><th>No.</th><th>Thumbnail</th><th>Title</th><th>Link</th></tr>";
+
+          for (
+            var i = 0;
+            i < Math.min(parseInt(userInput2.value), items.length);
+            i++
+          ) {
+            table += "<tr>";
+            table += "<td>" + i + "</td>";
+
+            // Check if thumbnail exists and use it as a link
+            if (items[i].thumbnail) {
+              table +=
+                "<td><a href='" +
+                items[i].thumbnail +
+                "' target='_blank'><img src='" +
+                items[i].thumbnail +
+                "' alt='Thumbnail'></a></td>";
+            } else {
+              table += "<td>No Thumbnail</td>";
+            }
+
+            table += "<td>" + items[i].title + "</td>";
+            table +=
+              "<td><a href='" +
+              items[i].url +
+              "' target='_blank'>CLICK</a></td>";
+            table += "</tr>";
+          }
+
+          table += "</table>";
+          document.getElementById("postingArea").innerHTML = table;
+        });
+      }
+    </script>
+  </body>
+</html>
