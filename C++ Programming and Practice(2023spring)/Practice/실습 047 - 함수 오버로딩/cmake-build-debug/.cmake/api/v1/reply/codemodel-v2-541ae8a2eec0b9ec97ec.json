@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_047____",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_047____::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_047____-Debug-331dbdd4721065cb827f.json",
+					"name" : "_047____",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5/\uc2e4\uc2b5 047 - \ud568\uc218 \uc624\ubc84\ub85c\ub529/cmake-build-debug",
+		"source" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5/\uc2e4\uc2b5 047 - \ud568\uc218 \uc624\ubc84\ub85c\ub529"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,16 @@
+# ninja log v5
+3	146	1685608713918677123	CMakeFiles/_121_______.dir/PercentDiscountPolicy.cpp.o	b9c85c21a9854669
+146	179	1685608713954224527	CMakeFiles/_121_______.dir/SequenceCondition.cpp.o	a4470dac33bfff7e
+2	358	1685608714130860962	CMakeFiles/_121_______.dir/DiscountPolicy.cpp.o	79b458cfec2682ec
+2	360	1685608714132756590	CMakeFiles/_121_______.dir/AmountDiscountPolicy.cpp.o	d57eb778936c48ef
+1	460	1685608714232285788	CMakeFiles/_121_______.dir/Movie.cpp.o	b160b3c672773808
+6	227	1685874913487560962	CMakeFiles/_121_______.dir/AmountDiscountPolicy.cpp.o	d57eb778936c48ef
+6	228	1685874913486566041	CMakeFiles/_121_______.dir/DiscountPolicy.cpp.o	79b458cfec2682ec
+6	304	1685874913561917803	CMakeFiles/_121_______.dir/PeriodCondition.cpp.o	7a3167be46fe1b45
+7	308	1685874913566197781	CMakeFiles/_121_______.dir/PercentDiscountPolicy.cpp.o	b9c85c21a9854669
+6	309	1685874913566641158	CMakeFiles/_121_______.dir/Movie.cpp.o	b160b3c672773808
+6	309	1685874913566686200	CMakeFiles/_121_______.dir/Reservation.cpp.o	a7e60bbdb150ce1a
+5	313	1685874913573275021	CMakeFiles/_121_______.dir/Screening.cpp.o	69950e81259e74f3
+7	361	1685874913620508488	CMakeFiles/_121_______.dir/MovieTest.cpp.o	42baa40934a8a044
+228	474	1685874913733525381	CMakeFiles/_121_______.dir/SequenceCondition.cpp.o	a4470dac33bfff7e
+474	866	1685874914127622313	_121_______	5ae28ede4076c29c

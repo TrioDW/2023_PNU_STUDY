@@ -1,0 +1,10 @@
+# ninja log v5
+0	248	1681372443330050995	CMakeFiles/_062___constructor.dir/VehicleTest.cpp.o	e448fe3ff8a63916
+0	291	1681372443373778510	CMakeFiles/_062___constructor.dir/Vehicle.cpp.o	8bf831cfddcdd4dd
+291	326	1681372443410458590	_062___constructor	aef428ab910e6110
+6	272	1681372702229993360	CMakeFiles/_062___constructor.dir/Vehicle.cpp.o	8bf831cfddcdd4dd
+272	309	1681372702269374419	_062___constructor	aef428ab910e6110
+5	288	1681372766112228820	CMakeFiles/_062___constructor.dir/Vehicle.cpp.o	8bf831cfddcdd4dd
+288	325	1681372766150860325	_062___constructor	aef428ab910e6110
+4	286	1681372785840126150	CMakeFiles/_062___constructor.dir/Vehicle.cpp.o	8bf831cfddcdd4dd
+286	323	1681372785879194596	_062___constructor	aef428ab910e6110

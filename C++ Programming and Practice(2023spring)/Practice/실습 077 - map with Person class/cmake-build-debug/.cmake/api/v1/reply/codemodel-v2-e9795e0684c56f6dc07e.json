@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_077___map_with_Person_class",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_077___map_with_Person_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_077___map_with_Person_class-Debug-ff33d5fd7fddc2240359.json",
+					"name" : "_077___map_with_Person_class",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5/\uc2e4\uc2b5 077 - map with Person class/cmake-build-debug",
+		"source" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5/\uc2e4\uc2b5 077 - map with Person class"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

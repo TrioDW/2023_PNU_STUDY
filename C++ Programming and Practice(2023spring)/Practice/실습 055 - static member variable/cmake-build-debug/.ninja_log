@@ -1,0 +1,10 @@
+# ninja log v5
+0	348	1680595722066066069	CMakeFiles/_055___static_member_variable.dir/main.cpp.o	5d9530422f6fcd81
+0	350	1680595722069186571	CMakeFiles/_055___static_member_variable.dir/Logger.cpp.o	b66b33a848d432f9
+1	207	1680595875981011169	CMakeFiles/_055___static_member_variable.dir/main.cpp.o	5d9530422f6fcd81
+2	214	1680595875987663842	CMakeFiles/_055___static_member_variable.dir/Logger.cpp.o	b66b33a848d432f9
+2	336	1680596226089956258	CMakeFiles/_055___static_member_variable.dir/Logger.cpp.o	b66b33a848d432f9
+337	377	1680596226132912046	_055___static_member_variable	213ea5e402ff2eb8
+4	218	1680596287059276177	CMakeFiles/_055___static_member_variable.dir/main.cpp.o	5d9530422f6fcd81
+5	223	1680596287064944307	CMakeFiles/_055___static_member_variable.dir/Logger.cpp.o	b66b33a848d432f9
+223	255	1680596287098690754	_055___static_member_variable	213ea5e402ff2eb8

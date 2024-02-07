@@ -1,0 +1,9 @@
+# ninja log v5
+0	52	1679387323393155082	build.ninja	a3062418aa076af6
+0	236	1679387323636383578	CMakeFiles/_042___const_.dir/const_print.cpp.o	5c16f67ea240c3de
+1	240	1679387576393560660	CMakeFiles/_042___const_.dir/const_print.cpp.o	5c16f67ea240c3de
+2	232	1679387688554371041	CMakeFiles/_042___const_.dir/const_print.cpp.o	5c16f67ea240c3de
+1	343	1679387935409374954	CMakeFiles/_042___const_.dir/const_print.cpp.o	5c16f67ea240c3de
+343	382	1679387935450464365	_042___const_	5457cccebcb6c16d
+1	238	1679387955649628994	CMakeFiles/_042___const_.dir/const_print.cpp.o	5c16f67ea240c3de
+238	269	1679387955682674271	_042___const_	5457cccebcb6c16d

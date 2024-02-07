@@ -1,0 +1,6 @@
+# ninja log v5
+0	60	1678866263702750669	build.ninja	e25e395bd8eebe0a
+0	396	1678866264105957466	CMakeFiles/_036_____std_xxx_iterator.dir/iterator_without_for.cpp.o	c4175086448f8c11
+397	438	1678866264148921161	_036_____std_xxx_iterator	2395c2d16b2f3709
+2	385	1678866437859700666	CMakeFiles/_036_____std_xxx_iterator.dir/iterator_without_for.cpp.o	c4175086448f8c11
+386	428	1678866437904262370	_036_____std_xxx_iterator	2395c2d16b2f3709

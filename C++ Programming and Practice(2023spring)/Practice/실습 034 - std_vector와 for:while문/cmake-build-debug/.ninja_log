@@ -1,0 +1,10 @@
+# ninja log v5
+1	49	1678811669131289348	build.ninja	edcc26e7b79a1202
+0	223	1678811669360087012	CMakeFiles/_034___std_vector_for_while.dir/while_vector.cpp.o	5d8281ddc1e4cf7
+224	259	1678811669397031906	_034___std_vector_for_while	6509d6e8492e92d3
+1	223	1678811714022890252	CMakeFiles/_034___std_vector_for_while.dir/while_vector.cpp.o	5d8281ddc1e4cf7
+223	257	1678811714058745715	_034___std_vector_for_while	6509d6e8492e92d3
+1	238	1678811804829356605	CMakeFiles/_034___std_vector_for_while.dir/while_vector.cpp.o	5d8281ddc1e4cf7
+238	271	1678811804863310919	_034___std_vector_for_while	6509d6e8492e92d3
+2	236	1678811825095724091	CMakeFiles/_034___std_vector_for_while.dir/while_vector.cpp.o	5d8281ddc1e4cf7
+236	269	1678811825130112869	_034___std_vector_for_while	6509d6e8492e92d3

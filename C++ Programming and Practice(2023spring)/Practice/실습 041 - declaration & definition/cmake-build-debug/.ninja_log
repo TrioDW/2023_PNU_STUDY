@@ -1,0 +1,24 @@
+# ninja log v5
+0	310	1679386326708484076	CMakeFiles/_041___declaration___definition.dir/data.cpp.o	873a7f815599637b
+0	353	1679386326752289240	CMakeFiles/_041___declaration___definition.dir/main.cpp.o	a8cf207f1b4adbfc
+0	371	1679386326769878781	CMakeFiles/_041___declaration___definition.dir/reader.cpp.o	fe6f9dba6264d0dc
+2	166	1679386386437624410	CMakeFiles/_041___declaration___definition.dir/sum.cpp.o	2d14aa647d4ef439
+2	171	1679386386447187948	CMakeFiles/_041___declaration___definition.dir/data.cpp.o	873a7f815599637b
+1	220	1679386386496544002	CMakeFiles/_041___declaration___definition.dir/main.cpp.o	a8cf207f1b4adbfc
+2	243	1679386386518837853	CMakeFiles/_041___declaration___definition.dir/reader.cpp.o	fe6f9dba6264d0dc
+243	284	1679386386560935317	_041___declaration___definition	e1c1942a1fff49ea
+2	160	1679386711827812998	CMakeFiles/_041___declaration___definition.dir/sum.cpp.o	2d14aa647d4ef439
+2	168	1679386711836394290	CMakeFiles/_041___declaration___definition.dir/data.cpp.o	873a7f815599637b
+2	221	1679386711889195536	CMakeFiles/_041___declaration___definition.dir/main.cpp.o	a8cf207f1b4adbfc
+2	239	1679386711907178949	CMakeFiles/_041___declaration___definition.dir/reader.cpp.o	fe6f9dba6264d0dc
+239	280	1679386711949679411	_041___declaration___definition	e1c1942a1fff49ea
+2	158	1679386723677953701	CMakeFiles/_041___declaration___definition.dir/sum.cpp.o	2d14aa647d4ef439
+2	164	1679386723683769756	CMakeFiles/_041___declaration___definition.dir/data.cpp.o	873a7f815599637b
+1	215	1679386723734358887	CMakeFiles/_041___declaration___definition.dir/main.cpp.o	a8cf207f1b4adbfc
+2	232	1679386723752121218	CMakeFiles/_041___declaration___definition.dir/reader.cpp.o	fe6f9dba6264d0dc
+232	261	1679386723782337698	_041___declaration___definition	e1c1942a1fff49ea
+2	188	1679386738955797568	CMakeFiles/_041___declaration___definition.dir/sum.cpp.o	2d14aa647d4ef439
+2	195	1679386738962923784	CMakeFiles/_041___declaration___definition.dir/data.cpp.o	873a7f815599637b
+2	248	1679386739015961279	CMakeFiles/_041___declaration___definition.dir/main.cpp.o	a8cf207f1b4adbfc
+2	266	1679386739034123400	CMakeFiles/_041___declaration___definition.dir/reader.cpp.o	fe6f9dba6264d0dc
+266	299	1679386739068090028	_041___declaration___definition	e1c1942a1fff49ea

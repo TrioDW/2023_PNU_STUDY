@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_111___out_of_range_exception",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_111___out_of_range_exception::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_111___out_of_range_exception-Debug-001369ae37a8ee3ae878.json",
+					"name" : "_111___out_of_range_exception",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5/\uc2e4\uc2b5 111 - out_of_range exception/cmake-build-debug",
+		"source" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5/\uc2e4\uc2b5 111 - out_of_range exception"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,9 @@
+# ninja log v5
+0	239	1679409042581986295	CMakeFiles/_045___static_local_variable.dir/static.cpp.o	7baae7773218cd07
+2	302	1679409444044127363	CMakeFiles/_045___static_local_variable.dir/static.cpp.o	7baae7773218cd07
+2	347	1679409444089715275	CMakeFiles/_045___static_local_variable.dir/main.cpp.o	bf4d3c05d00004f4
+347	386	1679409444130382210	_045___static_local_variable	511130fdcbc665da
+2	177	1679409464494159231	CMakeFiles/_045___static_local_variable.dir/static.cpp.o	7baae7773218cd07
+177	210	1679409464528548195	_045___static_local_variable	511130fdcbc665da
+2	206	1679409480371373608	CMakeFiles/_045___static_local_variable.dir/static.cpp.o	7baae7773218cd07
+206	240	1679409480406115112	_045___static_local_variable	511130fdcbc665da

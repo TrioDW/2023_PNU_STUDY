@@ -1,0 +1,4 @@
+# ninja log v5
+0	46	1679411585194933796	build.ninja	3976f33ed8d0c81a
+0	382	1679411585580848013	CMakeFiles/_048___std_accumulate___.dir/accumulate_func.cpp.o	602e95942f4ae9cf
+383	422	1679411585623101879	_048___std_accumulate___	4e95eb00cc4f5dce

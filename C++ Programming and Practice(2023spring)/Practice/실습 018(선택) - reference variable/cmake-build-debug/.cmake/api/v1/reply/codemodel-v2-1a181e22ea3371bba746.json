@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_018___reference_variable",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_018___reference_variable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_018___reference_variable-Debug-994b8c5ac546cf70c1aa.json",
+					"name" : "_018___reference_variable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5 018 - reference variable/cmake-build-debug",
+		"source" : "/Users/nozerose/Desktop/2023\ud559\ub144\ub3c4 1\ud559\uae30 \uc218\uc5c5/CB3500572-063 C++\ud504\ub85c\uadf8\ub798\ubc0d\uacfc\uc2e4\uc2b5(Prof.\uae40\ud0dc\uc5f0)/\uc2e4\uc2b5 018 - reference variable"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

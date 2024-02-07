@@ -1,0 +1,3 @@
+/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습 015 - new:delete/cmake-build-debug/CMakeFiles/_015___new_delete.dir
+/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습 015 - new:delete/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습 015 - new:delete/cmake-build-debug/CMakeFiles/rebuild_cache.dir

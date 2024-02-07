@@ -1,0 +1,6 @@
+# ninja log v5
+1	53	1678350074460975998	build.ninja	8cc7b455b26fa35b
+0	275	1678350074744336078	CMakeFiles/_021___reverse_an_array.dir/reverse.cpp.o	6996f316aa47c8fb
+276	311	1678350074781352376	_021___reverse_an_array	6c307adeeaa8406
+2	212	1678350087767674126	CMakeFiles/_021___reverse_an_array.dir/reverse.cpp.o	6996f316aa47c8fb
+212	244	1678350087801136569	_021___reverse_an_array	6c307adeeaa8406

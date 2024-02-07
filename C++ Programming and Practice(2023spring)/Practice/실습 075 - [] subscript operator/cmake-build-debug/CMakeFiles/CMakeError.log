@@ -1,0 +1,51 @@
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC".
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX".
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+clang: error: no input files
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-nP56xN
+
+Run Build Command(s):/Applications/CLion.app/Contents/bin/ninja/mac/ninja cmTC_310a4 && [1/2] Building C object CMakeFiles/cmTC_310a4.dir/CMakeCCompilerABI.c.o
+[2/2] Linking C executable cmTC_310a4
+FAILED: cmTC_310a4 
+: && /Library/Developer/CommandLineTools/usr/bin/cc -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cmTC_310a4.dir/CMakeCCompilerABI.c.o -o cmTC_310a4   && :
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 075 - [] subscript operator/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-JqC6wG
+
+Run Build Command(s):/Applications/CLion.app/Contents/bin/ninja/mac/ninja cmTC_90b20 && [1/2] Building C object CMakeFiles/cmTC_90b20.dir/testCCompiler.c.o
+[2/2] Linking C executable cmTC_90b20
+FAILED: cmTC_90b20 
+: && /Library/Developer/CommandLineTools/usr/bin/cc -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cmTC_90b20.dir/testCCompiler.c.o -o cmTC_90b20   && :
+ld: library not found for -lSystem
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+
+

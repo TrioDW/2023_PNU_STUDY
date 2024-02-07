@@ -1,0 +1,7 @@
+# ninja log v5
+1	376	1680697013948699760	CMakeFiles/_057___friend_.dir/Playlist.cpp.o	a47a79aa8c1ca26a
+0	378	1680697013951083480	CMakeFiles/_057___friend_.dir/main.cpp.o	7b0ea74225de53e5
+1	417	1680697013989755402	CMakeFiles/_057___friend_.dir/SinglyLinkedList.cpp.o	ad6c2ebaaf5a8955
+417	467	1680697014041596074	_057___friend_	5ae25398b4be2488
+2	244	1680697060810677061	CMakeFiles/_057___friend_.dir/SinglyLinkedList.cpp.o	ad6c2ebaaf5a8955
+244	278	1680697060846808517	_057___friend_	5ae25398b4be2488

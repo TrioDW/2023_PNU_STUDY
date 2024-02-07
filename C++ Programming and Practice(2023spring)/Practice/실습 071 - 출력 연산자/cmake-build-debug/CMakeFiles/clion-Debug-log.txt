@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 071 - 출력 연산자" -B "/Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 071 - 출력 연산자/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/nozerose/Desktop/2023학년도 1학기 수업/CB3500572-063 C++프로그래밍과실습(Prof.김태연)/실습/실습 071 - 출력 연산자/cmake-build-debug

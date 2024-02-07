@@ -1,0 +1,4 @@
+# ninja log v5
+1	48	1678434694722950785	build.ninja	36287ebfd7d7b985
+0	284	1678371032006189104	CMakeFiles/_026___sorting_for_std_vector.dir/sort.cpp.o	4e7e7b4d69e8d085
+285	319	1678371032042241099	_026___sorting_for_std_vector	15876ebd6ce67bd8

@@ -1,0 +1,4 @@
+# ninja log v5
+1	122	1683015266549978910	CMakeFiles/075______subscript_operator.dir/Array.cpp.o	b69041da3f8013ea
+0	258	1683015266685769474	CMakeFiles/075______subscript_operator.dir/ArrayTest.cpp.o	cb748283466994cd
+259	295	1683015266724723699	075______subscript_operator	8531945824abcd48
